@@ -16,7 +16,7 @@
 
 🔭 I’m currently working with
 
-- [IBM ](https://www.ibm.com/uk-en)
+- [xDesign ](https://www.xdesign.com/)
 
 👯 I’m looking to collaborate on
 
