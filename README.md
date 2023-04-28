@@ -1,12 +1,12 @@
 <div align="center">
-<img width="100%" height = "250px" src="./team-work.jpg" alt="cover" />
+<img src="./team-work.webp" alt="cover" width="600px" height="399px" />
 </div>
 
 <br/>
 
 ### Hi there 👋
 
-### My name is Angelo Orru. Thank You for taking the time to view my GitHub profile 😄
+### Thank You for taking the time to view my GitHub profile 😄
 
 <p/>
 
@@ -101,6 +101,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white&style=flat)
 ![GitLab Pipeline](https://img.shields.io/badge/GitLab%20Pipeline-grey?style=for-the-badge&logo=gitlab&logoColor=white&style=flat)
 ![Azure Pipeline](https://img.shields.io/badge/Azure%20Pipeline-grey?style=for-the-badge&logo=azurepipelines&logoColor=white&style=flat)
+
+## More about me
+<div>
+<img src="website-qr-code.png" alt="cover" width="150px" height="150px" />
+</div>
+
+<br/>
+<br/>
 
 <!--
 **angeloorru/angeloorru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
