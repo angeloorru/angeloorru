@@ -25,8 +25,8 @@
 - Open Source projects
 
 - 💬 Talk with me about
-  - React
   - NodeJS
+  - ReactJS
   - Javascript
   - Clean code
   - Clean Architecture
