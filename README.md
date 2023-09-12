@@ -75,6 +75,8 @@
 ## Front End
 
 ![React](https://img.shields.io/badge/ReactJS-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat)
+![VueJS](https://img.shields.io/badge/VueJS-2.x-42b883?style=for-the-badge&logo=vue.js&style=flat)
+![VueJS](https://img.shields.io/badge/VueJS-3.x-42b883?style=for-the-badge&logo=vue.js&style=flat)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white&style=flat)
