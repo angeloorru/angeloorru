@@ -1,0 +1,16 @@
+name: Profile View Counter
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: antonyjr/count.svg@master
+        with:
+          committer_username: angeloorru
+          committer_email: ${{ secrets.EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}

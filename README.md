@@ -1,16 +1,22 @@
 <div align="center">
-<img src="./team-work.webp" alt="cover" width="600px" height="399px" />
+<img src="assets/team-work.webp" alt="cover" width="100%" />
 </div>
 
 <br/>
 
-### Hi there 👋
 
-### Thank You for taking the time to view my GitHub profile 😄
+![](https://komarev.com/ghpvc/?username=angeloorru&color=blue)
 
-<p/>
+## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=angeloorru.angeloorru)
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1500&lines=Thank+You+for+taking+the+time+to+view+my+GitHub+profile :)" alt="Thank You for taking the time to view my GitHub profile" width="100%" />
+</div>  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
 ## About me 👇
 
@@ -34,10 +40,18 @@
   - Drums
   - Music
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<br/>
 
-- [LinkedIn 💼](https://www.linkedin.com/in/angelo-orru/)
-- [Mail 📤](mailto:angeloorru18@gmail.com)
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+
 
 ## Technologies I work with
 
@@ -104,9 +118,22 @@
 ![GitLab Pipeline](https://img.shields.io/badge/GitLab%20Pipeline-grey?style=for-the-badge&logo=gitlab&logoColor=white&style=flat)
 ![Azure Pipeline](https://img.shields.io/badge/Azure%20Pipeline-grey?style=for-the-badge&logo=azurepipelines&logoColor=white&style=flat)
 
+<br/>
+
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<h2 style="margin-top:0;"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+- [LinkedIn 💼](https://www.linkedin.com/in/angelo-orru/)
+- [Mail 📤](mailto:angeloorru18@gmail.com)
+
+<br/>
+
+<img src="./assets/borderseparator.gif" width="100%"/>
+
 ## More about me
 <div>
-<img src="website-qr-code.png" alt="cover" width="150px" height="150px" />
+<img src="assets/website-qr-code.png" alt="cover" width="150px" height="150px" />
 </div>
 
 <br/>
