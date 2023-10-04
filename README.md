@@ -5,7 +5,7 @@
 <br/>
 
 
-![](https://komarev.com/ghpvc/?username=angeloorru&color=blue)
+![](https://komarev.com/ghpvc/?username=angeloorru&color=orange&style=for-the-badge)
 
 ## Hi there 👋
 
