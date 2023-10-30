@@ -37,8 +37,6 @@
   - Clean code
   - Clean Architecture
   - Freelance jobs
-  - Drums
-  - Music
 
 <br/>
 
